@@ -1,4 +1,4 @@
-# littlewallet
+# Flutter BSV wallet concept.
 
 A new Flutter project.
 
