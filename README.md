@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Finished App](https://github.com/IgnatMaldive/Flutter-BSV-Wallet-Concept/blob/main/capture/captura_miniwallet2.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
